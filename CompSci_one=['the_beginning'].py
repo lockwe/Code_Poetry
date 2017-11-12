@@ -14,7 +14,7 @@ def initely_there_was(a_time):
                 my=str(engths_were_some_of_these)
     id(rather_stop)
     while this == True:
-        Before("languedges are hard")
+        Because("languedges are hard")
     if I_dont_stop: 
         I_know_its == True
     C ++ 'will_leave_me_scared'
