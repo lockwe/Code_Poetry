@@ -17,7 +17,7 @@ def initely_there_was(a_time):
         Because("languages are hard")
     if I_dont_stop: 
         I_know_its == True
-    C ++ 'will_leave_me_scared'
+    C ++ 'will_leave_me_scarred'
 
             
             
